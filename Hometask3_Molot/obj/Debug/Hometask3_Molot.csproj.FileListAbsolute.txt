@@ -1,0 +1,7 @@
+C:\Users\Alina_Molot\source\repos\Hometask3_Molot\Hometask3_Molot\bin\Debug\Hometask3_Molot.exe.config
+C:\Users\Alina_Molot\source\repos\Hometask3_Molot\Hometask3_Molot\bin\Debug\Hometask3_Molot.exe
+C:\Users\Alina_Molot\source\repos\Hometask3_Molot\Hometask3_Molot\bin\Debug\Hometask3_Molot.pdb
+C:\Users\Alina_Molot\source\repos\Hometask3_Molot\Hometask3_Molot\obj\Debug\Hometask3_Molot.csprojResolveAssemblyReference.cache
+C:\Users\Alina_Molot\source\repos\Hometask3_Molot\Hometask3_Molot\obj\Debug\Hometask3_Molot.csproj.CoreCompileInputs.cache
+C:\Users\Alina_Molot\source\repos\Hometask3_Molot\Hometask3_Molot\obj\Debug\Hometask3_Molot.exe
+C:\Users\Alina_Molot\source\repos\Hometask3_Molot\Hometask3_Molot\obj\Debug\Hometask3_Molot.pdb
